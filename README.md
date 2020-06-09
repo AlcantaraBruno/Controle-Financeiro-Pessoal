@@ -14,7 +14,7 @@
  
  ![image](https://user-images.githubusercontent.com/32379195/84099912-1b5c7000-a9e1-11ea-913e-534dc8ca1b8a.png)
  
- > Já em consulta, é possivel visualizar as despesas anteriomente cadastras, como pesquisar casos e a possibilidade de deletá-las. 
+ > Já em consulta, é possível visualizar as despesas anteriomente cadastras, como pesquisar casos e a possibilidade de deletá-las. 
  
  
 
